@@ -1,6 +1,6 @@
 # New AI-Based Career Guidance Platform 🚀
 
-An intelligent web platform that helps students and job seekers discover suitable career paths using AI-driven recommendations, skill analysis, and personalized guidance.
+An AI-powered career guidance platform that helps students explore career paths, skills, courses, and personalized recommendations.
 
 ## Features
 - AI-powered career recommendations
