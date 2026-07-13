@@ -1,19 +1,18 @@
-# @babel/types
+# New AI-Based Career Guidance Platform 🚀
 
-> Babel Types is a Lodash-esque utility library for AST nodes
+An intelligent web platform that helps students and job seekers discover suitable career paths using AI-driven recommendations, skill analysis, and personalized guidance.
 
-See our website [@babel/types](https://babeljs.io/docs/babel-types) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20types%22+is%3Aopen) associated with this package.
+## Features
+- AI-powered career recommendations
+- Skill assessment
+- Course suggestions
+- Career path guidance
+- Responsive user interface
 
-## Install
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-Using npm:
-
-```sh
-npm install --save-dev @babel/types
-```
-
-or using yarn:
-
-```sh
-yarn add @babel/types --dev
-```
+## Author
+**Aditya Kushwaha**
