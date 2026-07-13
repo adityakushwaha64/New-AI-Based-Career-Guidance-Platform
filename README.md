@@ -9,10 +9,5 @@ An AI-powered career guidance platform that helps students explore career paths,
 - Career path guidance
 - Responsive user interface
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-
 ## Author
 **Aditya Kushwaha**
